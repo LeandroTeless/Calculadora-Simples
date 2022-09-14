@@ -1,0 +1,117 @@
+h1 {
+    font-family: Kumar One Outline;
+    text-align: center;
+    color:rgb(255, 255, 255);
+    position: absolute;
+    top: 58%;
+    left: 50%;
+    transform: translateY(-450%) translateX(-50%)
+}
+
+body {
+    background-color: rgb(0, 0, 0);
+}
+
+.cal {
+    position: absolute;
+    top: 58%;
+    left: 50%;
+    transform: translateY(-50%) translateX(-50%)
+    
+}
+
+#borda1 {
+    border-radius: 25px;
+    background:rgb(255, 255, 255);
+    padding: 5px;
+    width: 15px;
+    height: 15px;
+}
+
+#borda2 {
+    border-radius: 10px;
+    background:rgb(255, 255, 255);
+    padding: 5px;
+    width: 86px;
+    height: 15px;
+}
+
+.stylo2, .resul {
+    border-radius: 10px;
+    padding: px;
+    width: 129px;
+    height: 30px;
+}
+
+.stylo2, .resul {
+    border: 0;
+    line-height: 1;
+    padding: 0;
+    font-size: 1rem;
+    text-align: center;
+    color: rgb(0, 0, 0);
+    text-shadow: 1px 1px 1px #000;
+    border-radius: 10px;
+    background-color: rgb(255, 255, 255);
+    background-image: linear-gradient(to top left,
+    rgba(0, 0, 0, .2),
+    rgba(0, 0, 0, .2) 30%,
+    rgba(0, 0, 0, 0));
+    box-shadow: inset 2px 2px 3px rgba(255, 255, 255, .6),
+                inset -2px -2px 3px rgba(0, 0, 0, .6);            
+            
+}
+
+.stylo2,.resul:hover {
+    background-color: rgb(22, 212, 22);
+}
+
+.stylo2,.resul:active {
+    box-shadow: inset -2px -2px 3px rgba(255, 255, 255, .6),
+                inset 2px 2px 3px rgba(0, 0, 0, .6);
+
+}
+.resete {
+    border-radius: 10px;
+    padding: 5px;
+    width: 129px;
+    height: 30px;
+}
+
+.resete {
+    border: 0;
+    line-height: 1;
+    padding: 0;
+    font-size: 1rem;
+    text-align: center;
+    color: rgb(0, 0, 0);
+    text-shadow: 1px 1px 1px #000;
+    border-radius: 10px;
+    background-color: rgb(255, 255, 255);
+    background-image: linear-gradient(to top left,
+    rgba(0, 0, 0, .2),
+    rgba(0, 0, 0, .2) 30%,
+    rgba(0, 0, 0, 0));
+    box-shadow: inset 2px 2px 3px rgba(255, 255, 255, .6),
+                inset -2px -2px 3px rgba(0, 0, 0, .6);                                 
+
+}
+
+.resete:hover {
+    background-color: rgb(255, 0, 0);
+}
+
+.resete:active {
+    box-shadow: inset -2px -2px 3px rgba(255, 255, 255, .6),
+                inset 2px 2px 3px rgba(0, 0, 0, .6);
+
+}
+
+.calcular {
+    background-color:rgb(255, 255, 255);
+    border-radius: 5px;
+    padding: 10px;
+    width: 108px;
+    height: 10px;
+
+}
