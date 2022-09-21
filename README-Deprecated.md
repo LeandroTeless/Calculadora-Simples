@@ -87,3 +87,7 @@ Use [`hideEchoBack`](README.md#basic_options-hideechoback) option instead of it.
 ### <a name="deprecated_methods_and_options-notrim_option"></a>`noTrim` option
 
 Use [`keepWhitespace`](README.md#basic_options-keepwhitespace) option instead of it.
+
+![calculadora](https://user-images.githubusercontent.com/97403948/191579396-652c3dc0-cba1-43cc-8680-bad1869b1091.jpg)
+
+
